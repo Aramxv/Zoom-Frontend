@@ -1,0 +1,27 @@
+/* Master file CSS Document */
+
+.main-header-division {
+    background-color: #39394D;
+    height: 35px;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+    text-transform: uppercase;
+}
+
+#zoomLogo {
+    padding-left: 100px;
+}
+
+.hItem {
+    color: #777777 !important;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.bItem {
+    color: #267CFC !important;
+    font-size: 14px;
+    text-transform: uppercase;
+}
